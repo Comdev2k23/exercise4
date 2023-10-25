@@ -1,6 +1,6 @@
 import Contact from "./components/Contact"
 import { storeData } from "./components/Data"
-import Header from "./components/Header"
+
 import './App.css'
 function App() {
     
